@@ -1,0 +1,3 @@
+cn/bsd/learn/hotfix/sample/MainActivity.class
+cn/bsd/learn/hotfix/sample/BaseActivity.class
+cn/bsd/learn/hotfix/sample/BaseApplication.class
